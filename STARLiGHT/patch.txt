@@ -1,7 +1,0 @@
---DanceDanceRevolution XX -STARLiGHT- THE FINAL--
-
->> What exactly does this patch do?
-This patch adds a "THE FINAL" logo to the title screen, taken from beatmania THE FINAL's logo.
-
->> Why?
-This is for the final version of v1, after all, so I thought it'd be funny to create.
