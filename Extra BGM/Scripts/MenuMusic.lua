@@ -10,6 +10,7 @@ do
 			["A"] = "MenuMusic/common/A (loop).ogg";
 			["A20"] = "MenuMusic/common/A20 (loop).ogg";
 			["A20 PLUS"] = "MenuMusic/common/A20 PLUS (loop).mp3";
+			["Yum Yum Sweetie"] = "MenuMusic/common/Yum Yum Sweetie (loop).ogg";
 		};
 		profile = {
 			["Default"] = "MenuMusic/profile/Default (loop).ogg";
@@ -20,6 +21,7 @@ do
 			["A"] = "MenuMusic/profile/A (loop).ogg";
 			["A20"] = "MenuMusic/profile/A20 (loop).ogg";
 			["A20 PLUS"] = "MenuMusic/profile/A20 PLUS (loop).mp3";
+			["Yum Yum Sweetie"] = "MenuMusic/profile/Yum Yum Sweetie (loop).ogg";
 		};
 		results = {
 			["Default"] = "MenuMusic/common/Default (loop).ogg";
@@ -30,6 +32,7 @@ do
 			["A"] = "MenuMusic/results/A (loop).ogg";
 			["A20"] = "MenuMusic/results/A20 (loop).ogg";
 			["A20 PLUS"] = "MenuMusic/results/A20 PLUS (loop).mp3";
+			["Yum Yum Sweetie"] = "MenuMusic/results/Yum Yum Sweetie (loop).ogg";
 		};
 		music = {
 			["Default"] = "MenuMusic/common/Default (loop).ogg";
@@ -40,6 +43,7 @@ do
 			["A"] = "MenuMusic/SelMusic/A (loop).ogg";
 			["A20"] = "MenuMusic/SelMusic/A20 (loop).ogg";
 			["A20 PLUS"] = "MenuMusic/SelMusic/A20 PLUS (loop).mp3";
+			["Yum Yum Sweetie"] = "MenuMusic/SelMusic/Yum Yum Sweetie (loop).ogg";
 		}
 	}
 	--thanks to this code
