@@ -10,6 +10,7 @@ local frames = {
   "A",
   "A20",
   "A20 PLUS",
+  "Yum Yum Sweetie",
 };
 
 local function MakeRow(frames, idx)
@@ -122,6 +123,8 @@ local t = Def.ActorFrame{
         SOUND:PlayMusicPart(THEME:GetPathS("","MenuMusic/common/A20 (loop).ogg"), 0, 23.9, 0, 0, true)
 	  elseif curIndex == 7 then
         SOUND:PlayMusicPart(THEME:GetPathS("","MenuMusic/common/A20 Plus (loop).mp3"), 0, 23.9, 0, 0, true)
+	  elseif curIndex == 8 then
+        SOUND:PlayMusicPart(THEME:GetPathS("","MenuMusic/common/Yum Yum Sweetie (loop).ogg"), 0, 23.9, 0, 0, true)
 			end
 		end;
   };
