@@ -1,4 +1,0 @@
---DanceDanceRevolution XX -STARLiGHT- EXTRA BGM PACK--
-
-> What exactly does this patch do?
-This patch adds 3 new BGM options to the game, from DanceDanceRevolution A, DanceDanceRevolution A20, and DanceDanceRevolution A20 PLUS
